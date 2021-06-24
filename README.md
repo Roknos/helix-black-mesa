@@ -3,13 +3,20 @@
 
 Upcoming project of creating a full schema to play in Half Life Black Mesa universe
 
-#### Planned Features :
+### Working on :
+
+* Basic faction creation
+* Basic classes creation
+
+### Planned Features :
 
 - [ ] English translation
 - [ ] Complete security System
 - [ ] Scientits specialization
 - [ ] Administration groups
 - [ ] Research items
+- [ ] Playable Xen faction, but honestly I don't how so ... we'll see
+- [ ] Wiki ? Maybe, if I'm brave enough
 
 # Download and installation
 
