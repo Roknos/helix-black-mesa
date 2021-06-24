@@ -1,0 +1,8 @@
+
+"skeleton"
+{
+	"base" 			"helix"
+	"title" 		"Black Mesa RP"
+	"author" 		"Roknos"
+	"menusystem"	"1"
+}
