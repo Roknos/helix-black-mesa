@@ -5,11 +5,11 @@ Upcoming project of creating a full schema to play in Half Life Black Mesa unive
 
 #### Planned Features :
 
-* English translation
-* Complete security 
-* Scientits specialization
-* Administration groups
-* Research items
+- [ ] English translation
+- [ ] Complete security System
+- [ ] Scientits specialization
+- [ ] Administration groups
+- [ ] Research items
 
 # Download and installation
 
@@ -27,9 +27,9 @@ I try to do my best with what I know,
 You can : Edit it / Use it / Publish it for free
 BUT if you edit it and use it/publish it 
 
-I ASK YOU TO CREDIT ME WITH TGE FOLLOWING
+I ASK YOU TO CREDIT ME WITH THE FOLLOWING
 
 * On your publication page : link to this page 
 * Keep my name in your schema code
 
-__TANK YOU__
+__THANK YOU__
