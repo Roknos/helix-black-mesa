@@ -15,7 +15,7 @@ Upcoming project of creating a full schema to play in Half Life Black Mesa unive
 - [ ] Scientits specialization
 - [ ] Administration groups
 - [ ] Research items
-- [ ] Playable Xen faction, but honestly I don't how so ... we'll see
+- [ ] Playable Xen faction, but honestly I don't know how so ... we'll see
 - [ ] Wiki ? Maybe, if I'm brave enough
 
 # Download and installation
