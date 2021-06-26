@@ -20,11 +20,7 @@ Upcoming project of creating a full schema to play in Half Life Black Mesa unive
 
 # Download and installation
 
-* Download the latest version using the download button.
-* Upload "helix-black-mesa-master" folder (not the archive) into your garrys'mod gamemodes folder
-* Rename the "_helix-black-mesa-master_" folder to "_bmesa_"
-* Change your server gamemode to "_bmesa_"
-* Restart and enjoy
+Follow the [wiki](https://github.com/Roknos/helix-black-mesa/wiki/Installation)
 
 # Permission and Usage
 
